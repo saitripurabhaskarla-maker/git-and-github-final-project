@@ -28,7 +28,7 @@ Technologies Used
 Python (or replace with the language you used, e.g. JavaScript, Java, Bash)
 How to Run
 Clone this repository:
-   git clone https://github.com/YOUR-USERNAME/simple-interest-calculator.git
+   (https://github.com/saitripurabhaskarla-maker/git-and-github-final-project)
 Navigate into the project folder:
    cd simple-interest-calculator
 Run the program:
